@@ -1,4 +1,5 @@
-![banner](https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1000&q=80)
+![banner](<img width="2736" height="912" alt="banner" src="https://github.com/user-attachments/assets/42d654a8-eaa3-44fd-80d3-3b407a45888c" />
+
 
 ### Olá! Eu sou o Luiz (LuizDevkit) 👋
 
