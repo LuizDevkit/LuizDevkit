@@ -78,7 +78,9 @@ Plataforma CTF completa para estudos offline, ideal para laboratórios de faculd
 
 ### 📫 Vamos nos conectar?
 
-[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-brito-839b25448/)
-[[GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizDevkit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-brito-839b25448/)
+[![【entity-GitHub¦canonical_name=GitHub】](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizDevkit)
+
+📍 Cariacica, ES - Brasil
 
 📍 Cariacica, ES - Brasil
