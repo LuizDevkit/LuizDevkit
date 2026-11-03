@@ -1,4 +1,4 @@
-(<img width="2736" height="912" alt="banner" src="https://github.com/user-attachments/assets/42d654a8-eaa3-44fd-80d3-3b407a45888c" />
+<img width="2736" height="912" alt="banner" src="https://github.com/user-attachments/assets/42d654a8-eaa3-44fd-80d3-3b407a45888c" />
 
 
 ### Olá! Eu sou o Luiz (LuizDevkit) 👋
