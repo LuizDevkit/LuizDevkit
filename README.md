@@ -1,5 +1,5 @@
-[README-Com-Icons.md](https://github.com/user-attachments/files/34303465/README-Com-Icons.md)
-[banner](https://github.com/user-attachments/assets/42d654a8-eaa3-44fd-8d03-3b4d7a45888c)
+<img width="2736" height="912" alt="banner" src="https://github.com/user-attachments/assets/dc3d7d38-304b-4144-ae2d-4f52ece44df5" />
+
 
 ### Olá! Eu sou o Luiz (LuizDevkit) 👋
 
