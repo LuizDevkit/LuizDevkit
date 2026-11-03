@@ -5,7 +5,7 @@
 
 🚀 Estudante de Ciências da Computação - FAESA | Focado em Cibersegurança e Pentest 🛡️
 
-Entre CTFs, labs e um pouquinho de caos.
+Entre CTFs, labs, Hacktons e um pouquinho de caos.
 
 ---
 
