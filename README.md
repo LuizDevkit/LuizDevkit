@@ -82,5 +82,3 @@ Plataforma CTF completa para estudos offline, ideal para laboratórios de faculd
 [![【entity-GitHub¦canonical_name=GitHub】](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizDevkit)
 
 📍 Cariacica, ES - Brasil
-
-📍 Cariacica, ES - Brasil
