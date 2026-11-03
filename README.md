@@ -11,9 +11,9 @@ Entre CTFs, labs, Hacktons e um pouquinho de caos.
 
 ### 🌟 Sobre mim
 
-- 👨‍💻 Sou estudante de Ciências da Computação na FAESA - Cariacica, ES.
+- 👨‍💻 Sou estudante de Ciências da Computação na FAESA - Vitória, ES.
 - 🔐 Focado em Cibersegurança, Pentest e desenvolvimento de ferramentas de segurança.
-- 📚 Atualmente estudando Python, Linux, Redes, Flask e fundamentos de SOC.
+- 📚 Atualmente estudando Python, Engenharia de Software, Sistemas e Microprocessados e Álgebra Linar, Ciber Segurança em I.A, Engenharia de Pronpt
 - 🎯 Criador do CTF-ES — Plataforma Offline com 101 desafios.
 - 🛡️ Participante BSides Vitória 2026 e Formação VIRTUS/UFCG - Cap.BR.
 
